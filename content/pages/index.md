@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: 'Hi, my name is Chloe, I am an Integrative counsellor'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I work with young people and adults (aged 11 +) online or face to face in
+      central Braunton, North Devon. I offer a safe, confidential and warm space
+      for you to make sense of whatever it is that you are going through or need
+      help with right now.
     actions:
       - label: Contact Me
         url: /contact
