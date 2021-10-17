@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Chloe. I help my clients succeed online.'
+    title: 'Hi, my name is Chloe, I am an Integrative counsellor'
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
