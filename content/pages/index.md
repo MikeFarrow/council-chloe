@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: images/watercolor.png
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     background_image_size: contain
     background_image_opacity: 8
     content: "I offer a safe, confidential and warm space for you to make sense of whatever it is that you are going through or need help with right now.\n\nTo be able to talk to someone openly and free of judgement can be incredibly beneficial especially when you are going through hard times. \n\nIt can help promote healing and provide a sense of perspective and clarity. It also gives you some time in your week when you know someone will be there, just for you.\_\n"
