@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: images/watercolor.png
+    background_image: /images/feature-1.svg
     background_image_repeat: no-repeat
     background_image_size: contain
     background_image_opacity: 8
