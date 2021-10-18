@@ -98,6 +98,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: /images/bobid.png
+    section_id: banner pic
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
