@@ -22,8 +22,9 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    content: |
-      Some text
+    content: >
+      I offer a safe, confidential and warm space for you to make sense of
+      whatever it is that you are going through or need help with right now.
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
