@@ -1,6 +1,22 @@
 ---
 title: Home
 sections:
+  - actions: []
+    image_alt: lorem-ipsum
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: /images/bobid.png
+    section_id: banner pic
   - type: hero_section
     title: 'Hi, my name is Chloe, I am an Integrative counsellor'
     subtitle: >-
@@ -67,22 +83,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: /images/bobid.png
-    section_id: banner pic
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
